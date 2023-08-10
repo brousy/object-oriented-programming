@@ -1,7 +1,7 @@
 {
   "name": "object-oriented-programming",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Description",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -13,6 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.2.4"
-  }
+    "inquirer": "^8.2.4",
+    "svg": "^0.1.0"
+  },
+  "devDependencies": {}
 }
