@@ -38,7 +38,8 @@ To run this application:
 bash```
     node index.js 
     ```
-
+Exmaple of image:
+![Square SVG Logo](./Images/logo.svg)
 ## Usage
 
 Please see video for creating your own logo. 
