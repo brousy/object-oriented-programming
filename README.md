@@ -33,11 +33,20 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Installation
 
-To install SVG Logo Maker, simply clone this repository and install the required dependencies/
+To install SVG Logo Maker, simply clone this repository and install the required dependencies.
+To run this application: 
+bash```
+    node index.js 
+    ```
+
+## Usage
+
+Please see video for creating your own logo. 
+[Youtube Video, Running SVG Logo Maker](https://youtu.be/PNBHb7-8lzI)
 
 ## Credits
 
-Worked with tutor from UPENN and classmates MAtthew Shuman. 
+Worked with tutor from UPENN and classmates Matthew Shuman. 
 
 ## License 
 
